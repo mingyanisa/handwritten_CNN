@@ -1,5 +1,5 @@
-# handwritten_CNN
-## Computational Neuroscience Course Final Project
+# Final Project: Handwritten CNN
+## Computational Neuroscience Course
 Yanisa Sunthornyotin
 
 The main files is 
