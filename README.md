@@ -12,3 +12,10 @@ or alternatively
 
 All the handwritten image dataset is stored in src/data folder
 
+
+
+### Citation
+***
+* https://www.tensorflow.org/tutorials/images/cnn
+* https://www.mathworks.com/help/deeplearning/examples/create-simple-deep-learning-network-for-classification.html
+
