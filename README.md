@@ -1,7 +1,7 @@
 # handwritten_CNN
 ## Computational Neuroscience Course Final Project
 Yanisa Sunthornyotin
-***
+
 The main files is 
 <li> src/final_proj.ipynb for .ipynb code
 <li> NeuroSci Final Project (option B).pdf for the documentation
